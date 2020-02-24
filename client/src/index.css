@@ -1,0 +1,23 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+.btn-margin-right {
+    margin-right: 10px;
+}
+
+.input-field input:focus {
+    border-bottom: 1px solid #f57f17 !important;
+    box-shadow: 0 1px 0 0 #f57f17 !important;
+}
+
+.input-field input:focus+label {
+    color: #f57f17 !important;
+}
+
+.navbar {
+    padding: 0 50px;
+}
+
+.loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

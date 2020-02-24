@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb+srv://xvlady:qwe123QWE%40@cluster0-ryrih.azure.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "xvlady secret",
+    "baseUrl": "http://localhost:5000"
+}
